@@ -27,9 +27,8 @@
 |Row 위젯|children 매개변수에 입력된 모든 위젯들을 가로로 배치|
 |ListView 위젯|리스트 구현할 때 사용<br> children 매개변수에 다수의 위젯을 입력할 수 있으며 입력된 위젯이 화면을 벗어나게 되면 스크롤 가능해짐
 
-![위젯 계층](../../assets/widget.png)
-
+![위젯 계층](https://wikidocs.net/images/page/227938/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-01-20_005734.png)
 <br>
 
 ## UI의 위젯 트리
-![위젯 트리](../../assets/tree.png)
+![위젯 트리](https://wikidocs.net/images/page/227938/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-01-20_005813.png)
